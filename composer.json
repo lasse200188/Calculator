@@ -1,0 +1,12 @@
+{
+    "name": "lasse200188/calculator",
+    "description": "Calculator",
+    "authors": [
+        {
+            "name": "Jens Laskowski",
+            "email": "laskowski.jens@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
