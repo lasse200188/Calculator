@@ -10,13 +10,14 @@
     "autoload": {
         "psr-4": {
             "lasse200188\\Calculator\\": "src"
-        },
+        }
+    },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
                 "lasse200188\\Calculator\\CalculatorServiceProvider"
-            ]},
+            ],
     "require": {}
         }
     }
