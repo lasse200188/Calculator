@@ -7,17 +7,16 @@
             "email": "laskowski.jens@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "lasse200188\\Calculator\\": "src"
+        },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
                 "lasse200188\\Calculator\\CalculatorServiceProvider"
-            ],
-            "autoload": {
-                "psr-4": {
-                    "lasse200188\\Calculator\\": "src"
-                }
-            },
+            ]},
     "require": {}
         }
     }
