@@ -8,5 +8,10 @@
         }
     ],
     "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "lasse200188\\Calculator\\CalculatorServiceProvider"
+            ],
     "require": {}
 }
