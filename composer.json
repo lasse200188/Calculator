@@ -13,6 +13,11 @@
             "providers": [
                 "lasse200188\\Calculator\\CalculatorServiceProvider"
             ],
+            "autoload": {
+                "psr-4": {
+                    "lasse200188\\Calculator\\": "src"
+                }
+            },
     "require": {}
         }
     }
